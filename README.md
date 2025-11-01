@@ -18,7 +18,8 @@ The input frequency is declared as a **generic parameter**, so it can be easily 
 - `README.md` — project description  
 
 ## Demo
-[Demo Video](./demo/demo_video.mp4)
+[▶️ Watch the Demo](https://youtu.be/xDTr1Q6OcI4)
+
 
 ## Author
 Ahmed Amir
