@@ -14,7 +14,6 @@ The input frequency is declared as a **generic parameter**, so it can be easily 
 ## Files
 - `src/OneHzClock.vhd` — main VHDL source file
 - `simu/OneHzClock_tb.vhd` —  Testbench of the top level
-- `demo/demo_video.mp4` — short demo showing the LED blinking  
 - `README.md` — project description  
 
 ## Demo
